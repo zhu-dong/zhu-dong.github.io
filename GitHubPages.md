@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## GithubPages
 More details Please refere to 
 

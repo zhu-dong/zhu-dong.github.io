@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## A Simple Example To Run nvcc
 More details please refer to https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html#ixzz4hP0KVTbA
 ### Supplose we have the following file:

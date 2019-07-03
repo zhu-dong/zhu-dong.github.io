@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Do I have a web server running?
 
 ___
